@@ -14,7 +14,7 @@
 ### :man_technologist: About Me :
 I am a computer engineer in apprenticeship from France.
 
-- :telescope: I’m working as a Fullstack Engineer at Leroy Merlin in France.
+- :telescope: I’m working as a Fullstack Engineer at Leroy Merlin in France and I'm learning as student at INSA.
 
 - 🤝 I’m looking to make an internship abroad. 
 
