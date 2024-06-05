@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:francois.deroubaix@outlook.fr"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <br/>
-  <img height="40" src="https://discord.c99.nl/widget/theme-3/207943327880839168.png">
 </div>
 
 ### :man_technologist: About Me :
