@@ -10,11 +10,11 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a computer engineer in apprenticeship from France.
+I am a computer engineer from France.
 
 - :telescope: I’m working as a Fullstack Engineer at Leroy Merlin in France and I'm learning as student at INSA.
 
-- 🤝 I’m looking to make an internship abroad. 
+- 🤝 Work with love for Human Resources, Corporate Social Responsibility, Training and Recruitment domain
 
 - :zap: In my free time I am reading tech articles, develop some programs and practice music :guitar::trumpet:.
 
